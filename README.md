@@ -5,7 +5,7 @@
 Modern Java 25 Maven template with best practices, testing excellence, and CI/CD ready to use.
 
 **🌐 [View Full Documentation](https://cchacin.github.io/java-maven-template/)**
-ddd
+dddccc
 ## What's Included
 
 **🧪 Modern Testing Stack**
