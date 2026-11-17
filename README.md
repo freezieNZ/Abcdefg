@@ -10,7 +10,7 @@ dddccc
 
 **🧪 Modern Testing Stack**eii
 - JUnit 5, AssertJ, jqwik property testing, ArchUnit architecture testing
-- Separated unit and integration tests with parallel execution
+- Separated unit and integration tests with parallel executionh
 
 **⚙️ Build & Quality**
 - Maven Wrapper (no local Maven required)
