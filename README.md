@@ -17,7 +17,7 @@ fefefe
 - Java Preview Features enabled (--enable-preview)
 - Maven Build Cache Extension 1.2.0 for faster incremental builds
 - OpenTelemetry Maven Extension 1.50.0-alpha for build tracingfeferzfez
-- Spotless code formatting with Google Java Format (AOSP style)
+- Spotless code formatting with Google Java Format (AOSP style)ddddddddddddddddddddddddddddddddddddddd
 - GitHub Actions CI/CD with Oracle JDK 25
 
 **🔧 Developer Tools**
