@@ -12,7 +12,7 @@ Modern Java 25 Maven template with best practices, testing excellence, and CI/CD
 - JUnit 5, AssertJ, jqwik property testing, ArchUnit architecture testingrezggretfrgefgreddddeeee
 - Separated unit and integration tests with parallel execution
 
-**⚙️ Build & Quality**
+**⚙️ Build & Quality**fezfezfez
 - Maven Wrapper (no local Maven required)
 - Java Preview Features enabled (--enable-preview)eeeeeeeeeeeeeeeeeeeeeeeee
 - Maven Build Cache Extension 1.2.0 for faster incremental builds
