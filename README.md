@@ -9,7 +9,7 @@ Modern Java 25 Maven template with best practices, testing excellence, and CI/CD
 ## What's Included
 
 **🧪 Modern Testing Stack**
-- JUnit 5, AssertJ, jqwik property testing, ArchUnit architecture testingrezggretfrgefgredddd
+- JUnit 5, AssertJ, jqwik property testing, ArchUnit architecture testingrezggretfrgefgreddddeeee
 - Separated unit and integration tests with parallel execution
 
 **⚙️ Build & Quality**
