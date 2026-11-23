@@ -1,7 +1,7 @@
 # Java 25 Maven Template
 
 [![Maven Build](https://github.com/cchacin/java-maven-template/workflows/Maven%20Build/badge.svg)](https://github.com/cchacin/java-maven-template/actions)
-
+eeeeeeeeeeeeeeeeeee
 Modern Java 25 Maven template with best practices, testing excellence, and CI/CD ready to use.
 
 **🌐 [View Full Documentation](https://cchacin.github.io/java-maven-template/)**
