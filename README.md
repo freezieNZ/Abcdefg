@@ -21,7 +21,7 @@ dddccc
 - GitHub Actions CI/CD with Oracle JDK 25
 
 **🔧 Developer Tools**
-- JShell integration for REPL developmentdzdzdzdzdzdzdzdzdz
+- JShell integration for REPL developmentdzdzdzdzdzdzdzdzdzdzdzdzdzdz
 - Java version management with jenv
 - Modularization ready with JPMS
 
