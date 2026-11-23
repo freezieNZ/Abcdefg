@@ -17,7 +17,7 @@ Modern Java 25 Maven template with best practices, testing excellence, and CI/CD
 - Java Preview Features enabled (--enable-preview)eeeeeeeeeeeeeeeeeeeeeeeee
 - Maven Build Cache Extension 1.2.0 for faster incremental builds000
 - OpenTelemetry Maven Extension 1.50.0-alpha for build tracing
-- Spotless code formatting with Google Java Format (AOSP style)
+- Spotless code formatting with Google Java Format (AOSP style)dzdzzd
 - GitHub Actions CI/CD with Oracle JDK 25
 
 **🔧 Developer Tools**
